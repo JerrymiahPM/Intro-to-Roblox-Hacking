@@ -4,8 +4,7 @@ As you learned in the previous tutorial.  Variables store a value which can be a
 
 ### nil datatype
 
-Nil = None = null = no value, these are all equivalent.  If you don't know what any of those words mean, then your missing one of the prerequisites.  Pretty simple, it basically is when nothing is assigned to the variable.  You can assign a nil variable by doing the following
-
+Nil = None = null = no value, these are all equivalent.  If you don't know what any of those words mean, then your missing one of the prerequisites.  Pretty simple, it basically is when nothing is assigned to the variable.  You can assign a nil variable by doing the following <br/>
 <img src="https://github.com/JerrymiahPM/Roblox-Hacking-Full-Guide/assets/116575775/274cf1d3-3274-4627-a228-05ce4e4a6c9b" width=240 height=171>
 
 
