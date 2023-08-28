@@ -2,7 +2,7 @@
 
 As you learned in the previous tutorial.  Variables store a value which can be accessed later in the program.
 
-### nil datatype
+## nil datatype
 
 Nil = None = null = no value, these are all equivalent.  If you don't know what any of those words mean, then your missing one of the prerequisites.  Pretty simple, it basically is when nothing is assigned to the variable.  You can assign a nil variable by doing the following <br/>
 <img src="https://github.com/JerrymiahPM/Roblox-Hacking-Full-Guide/assets/116575775/274cf1d3-3274-4627-a228-05ce4e4a6c9b" width=240 height=171>
@@ -13,7 +13,7 @@ We call this defining a variable.  It creates a variable with the value of nil.
 
 If you want to later define it and just want to create it in scope.
 
-### String datatype
+## String datatype
 
 First, what is a string? A string is basically just text.  If you want to store something as a string, you need to enclose it in parenthesis "".  Take a look at the example below. <br/>
 <img src="https://github.com/JerrymiahPM/Roblox-Hacking-Full-Guide/assets/116575775/83ac0f53-5016-48bc-8068-801d0bc44882" width=240 height=171> 
@@ -24,7 +24,7 @@ As you can see, we created a variable called name.  Then we initialized it.  Ini
 
 Well, you could use it if you want to define a string which is used multiple times.  Maybe a name of your exploit name.
 
-### Boolean datatype
+## Boolean datatype
 
 Next we'll talk about a boolean.  A boolean can have 2 values.  True or False.  
 - DO NOT put parenthesis around the true or the false
