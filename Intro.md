@@ -5,12 +5,16 @@ Have you every wanted to get into Roblox exploiting/hacking?  Well, look no furt
 ### Lets Begin!
 
 First off, the prerequisites (WE EXPECTED YOU TO KNOW THE FOLLOWING)
-- Basic Lua(u)
-- Basic Roblox/Know Roblox Studio
+- Have a brain
 
-If you don't, check one ore more of the following recommendations <br/>
+If anything is confusing along the way or you want help on a different subject, check out the links below<br/>
 - [TheDevKing](https://www.youtube.com/@TheDevKing)
 - [AlvinBlox](https://www.youtube.com/@AlvinBlox/playlists)
 - [Lua website](https://www.lua.org/)
 - [Roblox Docs](https://create.roblox.com/docs)
 - [v3rm](https://v3rmillion.net/)
+
+# The beginning
+
+Let's start off with variables.  Essentially, variables store information inside them which can be reused throughout your code.  You start off by defining a variable.  Examine the code below
+![image](https://github.com/JerrymiahPM/Roblox-Hacking-Full-Guide/assets/116575775/29d153a3-370f-432e-9545-6645843387d1)
