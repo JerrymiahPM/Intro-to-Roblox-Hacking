@@ -5,5 +5,8 @@ Have you every wanted to get into Roblox exploiting/hacking?  Well, look no furt
 ### Lets Begin!
 
 First off, the prerequisites (WE EXPECTED YOU TO KNOW THE FOLLOWING)
-- Basic Lua
+- Basic Lua(u)
 - Basic Roblox/Know Roblox Studio
+
+If you don't, check the following
+https://www.youtube.com/@TheDevKing
