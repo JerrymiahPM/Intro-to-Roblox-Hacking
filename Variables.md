@@ -4,7 +4,10 @@ As you learned in the previous tutorial.  Variables store a value which can be a
 
 ### nil datatype
 
-Nil = None = null = no value, these are all equivalent.  If you don't know what any of those words mean, then your missing one of the prerequisites.  Pretty simple, it basically is when nothing is assigned to the variable.
+Nil = None = null = no value, these are all equivalent.  If you don't know what any of those words mean, then your missing one of the prerequisites.  Pretty simple, it basically is when nothing is assigned to the variable.  You can assign a nil variable by doing the following
+
+<img src="https://github.com/JerrymiahPM/Roblox-Hacking-Full-Guide/assets/116575775/274cf1d3-3274-4627-a228-05ce4e4a6c9b" width=240 height=171>
+
 
 ### String datatype
 
@@ -12,6 +15,10 @@ First, what is a string? A string is basically just text.  If you want to store 
 <img src="https://github.com/JerrymiahPM/Roblox-Hacking-Full-Guide/assets/116575775/83ac0f53-5016-48bc-8068-801d0bc44882" width=240 height=171> 
 
 As you can see, we created a variable called name.  Then we initialized it.  Inititializing a variable is basically the act of assigning a value to a variable.  In this case, we assigned a string containing "My Name".
+
+### How would we use this in roblox exploiting?
+
+Well, you could use it if you want to define a string which is used multiple times.  Maybe a name of your exploit name.
 
 ### Boolean datatype
 
