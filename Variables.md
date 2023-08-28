@@ -1,4 +1,4 @@
-# Welcome to variables
+# 🔥 Variables
 
 First we'll take a look at the types
 
