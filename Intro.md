@@ -28,4 +28,7 @@ The word after the keyword local is the name of the variable, it can be any word
 There are quite a few basic variable types.  
 *nil, boolean, number, string, function, userdata, thread, and table*
 
+You'll probably want to view one of the following next
+- [Variables]()
+
 
