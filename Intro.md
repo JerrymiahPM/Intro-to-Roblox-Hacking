@@ -20,8 +20,7 @@ Let's start off with variables.  Essentially, variables store information inside
 
 <img src="https://github.com/JerrymiahPM/Roblox-Hacking-Full-Guide/assets/116575775/e83f45a0-86c9-43ae-8f2d-9a7d1abe1e13" width=240 height=171>
 
-The code above uses a [**keyword**](https://www.lua.org/manual/5.1/manual.html#:~:text=The%20following%20keywords%20are%20reserved%20and%20cannot%20be%20used%20as%20names%3A).  A keyword is a word reserved by lua, which cannot be used as a name.  You'll see a lot more later.  The local variable is how you define a variable.  We'll talk about different variables later.
-The word variable is the name of the variable and can also be described as how you access a variable.
-
+The code above uses a [**keyword**](https://www.lua.org/manual/5.1/manual.html#:~:text=The%20following%20keywords%20are%20reserved%20and%20cannot%20be%20used%20as%20names%3A).  A keyword is a word reserved by lua, which cannot be used as a name.  You'll see a lot more later on.  The local **keyword** is how you define a variable.  We'll talk about different variables later.
+The word variable is the name of the variable, it can be any word except a keyword, read more about what a variable can and can't be [here](https://www.lua.org/manual/5.1/manual.html#:~:text=2.1%20%E2%80%93%20Lexical%20Conventions).
 
 
