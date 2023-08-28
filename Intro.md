@@ -25,4 +25,7 @@ The word after the keyword local is the name of the variable, it can be any word
 
 ### Next we'll want to assign a value to a variable.  Whats the point of a [nil](https://www.lua.org/manual/5.1/manual.html#:~:text=2.2%20%E2%80%93%20Values%20and%20Types) variable?
 
+There are quite a few basic variable types.  
+*nil, boolean, number, string, function, userdata, thread, and table*
+
 
