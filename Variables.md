@@ -9,4 +9,4 @@ Nil = None = null = no value, these are all equivalent.  If you don't know what 
 ### String datatype
 
 First, what is a string? A string is basically just text.  If you want to store something as a string, you need to enclose it in parenthesis "".  Take a look at the example below.
-<img src="https://github.com/JerrymiahPM/Roblox-Hacking-Full-Guide/assets/116575775/83ac0f53-5016-48bc-8068-801d0bc44882">
+<img src="https://github.com/JerrymiahPM/Roblox-Hacking-Full-Guide/assets/116575775/83ac0f53-5016-48bc-8068-801d0bc44882" width=240 height=171>
