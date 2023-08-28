@@ -20,7 +20,7 @@ Let's start off with variables.  Essentially, variables store information inside
 
 <img src="https://github.com/JerrymiahPM/Roblox-Hacking-Full-Guide/assets/116575775/e83f45a0-86c9-43ae-8f2d-9a7d1abe1e13" width=240 height=171>
 
-The code above uses a [**keyword**](https://www.lua.org/manual/5.1/manual.html#:~:text=2.1%20%E2%80%93%20Lexical%20Conventions)
+The code above uses a [**keyword**]([https://www.lua.org/manual/5.1/manual.html#:~:text=2.1%20%E2%80%93%20Lexical%20Conventions](https://www.lua.org/manual/5.1/manual.html#:~:text=The%20following%20keywords,true%20%20%20%20%20%20until%20%20%20%20%20while)https://www.lua.org/manual/5.1/manual.html#:~:text=The%20following%20keywords,true%20%20%20%20%20%20until%20%20%20%20%20while)
 
 
 
