@@ -8,5 +8,5 @@ First off, the prerequisites (WE EXPECTED YOU TO KNOW THE FOLLOWING)
 - Basic Lua(u)
 - Basic Roblox/Know Roblox Studio
 
-If you don't, check one of the following recommendations \n
+If you don't, check one of the following recommendations <br/>
 [TheDevKing](https://www.youtube.com/@TheDevKing)
