@@ -1,8 +1,8 @@
 # 💻 Roblox Game Hacking
 
-Have you every wanted to get into Roblox exploiting/hacking?  Well, look no further, this is a full guide to Roblox exploiting.  In this guide, you will learn a lot about roblox and roblox exploiting.
+Have you ever wanted to get into Roblox exploiting/hacking?  Well, look no further, this is a full guide to Roblox exploiting.  In this guide, you will learn a lot about roblox and roblox exploiting.
 
-### Lets Begin!
+### Let's Begin!
 
 First off, the prerequisites (WE EXPECTED YOU TO KNOW THE FOLLOWING)
 - Have a brain
@@ -29,6 +29,6 @@ There are quite a few basic variable types.
 *nil, boolean, number, string, function, userdata, thread, and table*
 
 You'll probably want to view one of the following next
-- [Variables](/Variables.md)
+- [Variables](/Lua/Variables.md)
 
 
