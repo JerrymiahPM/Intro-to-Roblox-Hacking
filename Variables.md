@@ -33,3 +33,7 @@ Check out the example below. <br/>
 <img src="https://github.com/JerrymiahPM/Roblox-Hacking-Full-Guide/assets/116575775/a85dde74-a873-47ee-ab0f-b34c7ae1209b" width=240 height=171>
 
 Above we create a variable called isAbove21.  In this case, it is set to true.  It could be set it to false.  You'll see why we need these in the future.
+
+### How would we use this in roblox exploiting?
+
+You could use it when using if statements or checking if a feature is enabled.  We'll learn about checking/if statements later.
