@@ -8,5 +8,9 @@ First off, the prerequisites (WE EXPECTED YOU TO KNOW THE FOLLOWING)
 - Basic Lua(u)
 - Basic Roblox/Know Roblox Studio
 
-If you don't, check one of the following recommendations <br/>
-[TheDevKing](https://www.youtube.com/@TheDevKing)
+If you don't, check one ore more of the following recommendations <br/>
+- [TheDevKing](https://www.youtube.com/@TheDevKing)
+- [AlvinBlox](https://www.youtube.com/@AlvinBlox/playlists)
+- Lua website
+- Roblox Docs
+- v3rm (in the future)
