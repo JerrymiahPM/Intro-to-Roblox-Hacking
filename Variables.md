@@ -9,7 +9,7 @@ Nil = None = null = no value, these are all equivalent.  If you don't know what 
 
 We call this defining a variable.  It creates a variable with the value of nil.
 
-### How would we use this in roblox exploiting?
+#### How would we use this in roblox exploiting?
 
 If you want to later define it and just want to create it in scope.
 
@@ -20,7 +20,7 @@ First, what is a string? A string is basically just text.  If you want to store 
 
 As you can see, we created a variable called name.  Then we initialized it.  Inititializing a variable is basically the act of assigning a value to a variable.  In this case, we assigned a string containing "My Name".
 
-### How would we use this in roblox exploiting?
+#### How would we use this in roblox exploiting?
 
 Well, you could use it if you want to define a string which is used multiple times.  Maybe a name of your exploit name.
 
@@ -34,6 +34,6 @@ Check out the example below. <br/>
 
 Above we create a variable called isAbove21.  In this case, it is set to true.  It could be set it to false.  You'll see why we need these in the future.
 
-### How would we use this in roblox exploiting?
+#### How would we use this in roblox exploiting?
 
 You could use it when using if statements or checking if a feature is enabled.  We'll learn about checking/if statements later.
