@@ -14,7 +14,7 @@ If anything is confusing along the way or you want help on a different subject, 
 - [Roblox Docs](https://create.roblox.com/docs)
 - [v3rm](https://v3rmillion.net/)
 
-# The beginning
+# 🎬 The beginning
 
 Let's start off with variables.  Essentially, variables store information inside them which can be reused throughout your code.  You start off by defining a variable.  Examine the code below <br/>
 
