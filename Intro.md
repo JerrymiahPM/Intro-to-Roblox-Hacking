@@ -11,6 +11,6 @@ First off, the prerequisites (WE EXPECTED YOU TO KNOW THE FOLLOWING)
 If you don't, check one ore more of the following recommendations <br/>
 - [TheDevKing](https://www.youtube.com/@TheDevKing)
 - [AlvinBlox](https://www.youtube.com/@AlvinBlox/playlists)
-- Lua website
-- Roblox Docs
-- v3rm (in the future)
+- [Lua website](https://www.lua.org/)
+- [Roblox Docs](https://create.roblox.com/docs)
+- [v3rm](https://v3rmillion.net/)
