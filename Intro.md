@@ -17,5 +17,6 @@ If anything is confusing along the way or you want help on a different subject, 
 # The beginning
 
 Let's start off with variables.  Essentially, variables store information inside them which can be reused throughout your code.  You start off by defining a variable.  Examine the code below
-![image](https://github.com/JerrymiahPM/Roblox-Hacking-Full-Guide/assets/116575775/bb504949-ff69-4f31-8a78-09eec15424ba)
+![image](https://github.com/JerrymiahPM/Roblox-Hacking-Full-Guide/assets/116575775/107cfa5c-43c7-443d-9c8b-ed144e7b03da)
+
 
