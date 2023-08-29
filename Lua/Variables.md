@@ -44,6 +44,5 @@ You could use it when using if statements or checking if a feature is enabled.  
 ## Number datatype
 
 A number datatype is basically just a number like 6 or 92.4543.  It's pretty simple.  I'll show you an example down below.  
-
 <img src="https://github.com/JerrymiahPM/Roblox-Hacking-Full-Guide/assets/116575775/05cec9bc-326e-4018-a561-488824a3ac19" width=240 height=171>
 
