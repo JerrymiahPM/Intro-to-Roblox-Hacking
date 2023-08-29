@@ -1,6 +1,6 @@
 # 🔥 Variables
 
-As you learned in the previous tutorial.  Variables store a value which can be accessed later in the program.
+As you learned in the previous tutorial.  Variables store a value which can be accessed later in the program.  Next we'll talk about datatypes.
 
 ## nil datatype
 
